@@ -1,0 +1,7 @@
+.venv
+.vscode
+__pycache__
+example
+poetry.lock
+output
+inno_build_script.iss

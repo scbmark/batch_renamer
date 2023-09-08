@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="/">
+    <file>statics/icon.ico</file>
+  </qresource>
+  <qresource prefix="/">
+    <file>statics/add.svg</file>
+  </qresource>
+  <qresource prefix="/">
+    <file>statics/close.svg</file>
+  </qresource>
+  <qresource prefix="/">
+    <file>manual.md</file>
+  </qresource>
+</RCC>
