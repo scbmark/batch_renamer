@@ -49,7 +49,7 @@ sudo apt install patchelf   # Ubuntu
 sudo pacman -S patchelf # Arch Linux
 
 ## 開始編譯
-python -m nuitka --standalone --static-libpython=no --enable-plugin=pyside6 --follow-imports --include-package=certifi --disable-console --output-dir=output batch_renamer.py
+python -m nuitka --standalone --static-libpython=no --enable-plugin=pyside6 --include-qt-plugins=platforminputcontexts --follow-imports --include-package=certifi --disable-console --output-dir=output batch_renamer.py
 
 ```
 
