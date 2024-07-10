@@ -5,3 +5,4 @@ example
 poetry.lock
 output
 inno_build_script.iss
+dist
